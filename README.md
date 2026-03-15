@@ -1,6 +1,13 @@
-# Exercise-04d-Enemies
+# Project 4 
 
 ## Implementation
+
+- Added extra levels (2 levels) +1 
+- Large or elaborate levels: One of the levels had a camouflage style and the mushroom level had a tricky and long parkour route. +1
+- Different sprites: I created two sprites. One for the enemy and one for the "coin", which is shown as a fruit on the second level. +2
+- Different Biome theme for each level. +1
+
+
 
 ## References
 
