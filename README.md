@@ -1,4 +1,4 @@
-# Exercise-04c-Enemies
+# Exercise-04d-Enemies
 
 ## Implementation
 
@@ -14,4 +14,4 @@ https://kenney.nl/assets/pixel-platformer
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Petra Hiller 
